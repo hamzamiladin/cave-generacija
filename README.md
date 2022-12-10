@@ -1,8 +1,10 @@
 # Procedural Cave Generation
 
 Hamza Miladin 
+
 BOS:
 Projekat je realizovan u Visual Studio Code-u koristeći c++ ,i sve što nam je prisutno i korisno u njemu, kao bazni programski jezik. Program printa primjer 2D generacije pećinskog sistema koji se mijenja svakim pokretanjem programa. Jedan od mnogih primjera kako nas program ovog tipa moze poslužiti je kao mapa za malu 2D igricu. 
+
 
 
 ENG:
